@@ -1,0 +1,9 @@
+prefix: '&0&l[&6Trick&fOr&6Treat&0&l]&r'
+playsound:
+  enabled: true
+  sound: BLOCK_WOOD_BUTTON_CLICK_OFF
+  volume: 4
+  pitch: 0.4
+messages:
+  enabled: true
+  alreadyClaimed: '&4You already claimed that door!'
