@@ -1,0 +1,16 @@
+main: me.kakalavala.trickortreat.core.TCore
+name: TrickOrTreat
+version: 1.0
+author: Kakalavala
+description: A fun Trick-or-Treating plugin!
+
+commands:
+  trickortreat:
+    description: TrickOrTreat's Main Command.
+    aliases: [tot]
+    permission: trickortreat.admin
+
+permissions:
+  trickortreat.admin:
+    default: op
+    description: Give opped players access to everything by default.
